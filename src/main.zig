@@ -1,7 +1,7 @@
 const std = @import("std");
 
-const day_runner = @import("day06.zig");
-const data = @embedFile("data/day06");
+const day_runner = @import("day07.zig");
+const data = @embedFile("data/day07");
 
 // const std = @import("std");
 
